@@ -1,0 +1,55 @@
+{
+  "feature_names": [
+    "distance",
+    "angle",
+    "shot_first_time",
+    "shot_one_on_one",
+    "shot_open_goal",
+    "shot_follows_dribble",
+    "shot_deflected",
+    "under_pressure",
+    "shot_body_part_Left Foot",
+    "shot_body_part_Other",
+    "shot_body_part_Right Foot",
+    "shot_type_Free Kick",
+    "shot_type_Open Play",
+    "shot_type_Penalty",
+    "play_pattern_From Counter",
+    "play_pattern_From Free Kick",
+    "play_pattern_From Goal Kick",
+    "play_pattern_From Keeper",
+    "play_pattern_From Kick Off",
+    "play_pattern_From Throw In",
+    "play_pattern_Regular Play"
+  ],
+  "n_features": 21,
+  "feature_types": {
+    "spatial": [
+      "distance",
+      "angle"
+    ],
+    "contextual": [
+      "shot_first_time",
+      "shot_one_on_one",
+      "shot_open_goal",
+      "shot_follows_dribble",
+      "shot_deflected",
+      "under_pressure"
+    ],
+    "categorical": [
+      "shot_body_part_Left Foot",
+      "shot_body_part_Other",
+      "shot_body_part_Right Foot",
+      "shot_type_Free Kick",
+      "shot_type_Open Play",
+      "shot_type_Penalty",
+      "play_pattern_From Counter",
+      "play_pattern_From Free Kick",
+      "play_pattern_From Goal Kick",
+      "play_pattern_From Keeper",
+      "play_pattern_From Kick Off",
+      "play_pattern_From Throw In",
+      "play_pattern_Regular Play"
+    ]
+  }
+}

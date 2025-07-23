@@ -1,0 +1,25 @@
+{
+  "model_info": {
+    "name": "Random Forest xG Model - Optimized",
+    "algorithm": "RandomForestClassifier",
+    "version": "1.0",
+    "training_date": "2025-07-22T21:24:21.792816",
+    "dataset": "Premier League 2015/16 StatsBomb",
+    "total_shots": 9908,
+    "total_goals": 988
+  },
+  "performance_metrics": {
+    "auc_score": 0.7918436042034696,
+    "goal_precision": 0.2046783625730994,
+    "goal_recall": 0.7070707070707071,
+    "goal_f1_score": 0.31746031746031744
+  },
+  "hyperparameters": {
+    "n_estimators": 300,
+    "max_depth": 8,
+    "min_samples_split": 2,
+    "min_samples_leaf": 4,
+    "class_weight": "balanced",
+    "random_state": 42
+  }
+}
