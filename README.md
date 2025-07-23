@@ -62,8 +62,11 @@ xg-football-analytics/
 │ ├── model/
 
 │ │ ├── rf_xg_model_optimized.joblib
+
 │ │ ├── feature_info.json
+
 │ │ └── model_metadata.json
+
 │ ├── utils/
 
 │ └── visualizations/
