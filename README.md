@@ -26,7 +26,10 @@ An interactive Streamlit application for professional expected goals (xG) analys
 
 ## 🚀 Live Demo
 
-> *Deployed soon on [Streamlit Cloud]*
+Try the interactive dashboard yourself on Streamlit Community Cloud:
+
+🔗 https://xg-football-analytics-mvwnrxpwhc6qbsetlf9hnx.streamlit.app/
+
 
 ---
 
