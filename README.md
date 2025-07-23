@@ -42,9 +42,13 @@ An interactive Streamlit application for professional expected goals (xG) analys
 
 
 xg-football-analytics/
-├── app.py
+
+ <br/> ├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+    
 ├── data/
 │ ├── raw/
 │ └── processed/
